@@ -1,0 +1,9 @@
+# Site settings
+title: Sean Q. Sun
+tag_text: Sean Q. Sun
+description: Professional website and blog.
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
