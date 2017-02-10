@@ -3,7 +3,7 @@ html {
       "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
       "Fira Sans", "Droid Sans", "Helvetica Neue",
       sans-serif;*/
-    font: 18px/1.6 Raleway;
+    font: 18px/1.6 Raleway, sans-serif;
     background: #FFF; /* f2f1ef */
 }
 
