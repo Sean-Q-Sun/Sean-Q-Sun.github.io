@@ -88,8 +88,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #111;
   text-rendering: optimizeLegibility;
   /*font-family: 'Raleway', sans-serif;*/
-  line-height: 1.2
-  font-weight: 300;
+  line-height: 1.2;
 }
 
 @media (max-width: 750px) {
@@ -156,10 +155,22 @@ h3 {
   }
 }
 
+
+
+
 h2, h4, h5, h6 {
   margin: 1.5rem -1rem .5rem -1rem;
   font-size: 1.5rem;
 }
+
+h4{
+    font-style: italic;
+    font-size: 1.2rem;
+}
+h6{
+    font-size: 1.1rem;
+}
+
 
 p, ul, ol, dl, table, pre, blockquote {
   margin-top: 0;

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: home
+title: homepage
 ---
 
-### guest@seanqsun:~/{{page.title}}$ 
+### guest@seanqsun:~/www/{{page.title}}$ 
 
 ## Hi there, how's it going?
 
