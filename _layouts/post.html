@@ -18,7 +18,7 @@
 <link href="https://fonts.googleapis.com/css?family=Ubuntu+Mono" rel="stylesheet">
 -->
 <script src="{{ site.baseurl }}/static/js/jquery.js"></script>
-	<link rel="canonical" href="{{ site.url }}" />
+<link rel="canonical" href="{{ site.url }} {{page.url}}" />
 </head>
 <body>
   
@@ -26,11 +26,11 @@
    <div class="scroll-line">
 </div>
 
-<h1><a class="link1" href="http://seanqsun.com/blog">Growing Pains</a></h1>
+<h1><a class="link1" href="https://seanqsun.com/blog">Growing Pains</a></h1>
 	<nav>
 	<a class="link2 about" href="/about">about</a>
         <a class="link2 work" href="/work/all">all</a>
-    <a class="link2 blog" href="http://{{ site.url }}">back to site</a>
+    <a class="link2 blog" href="https://{{ site.url }}">back to site</a>
 	</nav>
 
     {{ content }}
