@@ -4,7 +4,7 @@ title: work
 permalink: /work/all
 ---
 
-### guest@seanqsun:~/home/{{page.title}} ls -l
+### guest@seanqsun:~/home/{{page.title}}$ ls -l
 
 ### total 1
 
@@ -18,7 +18,7 @@ Nothing to see here, folks.
 
 ###### Cryptogra.me [**>>**](http://cryptogra.me)   
 Write in public, in private.  
-[Read](/portfolio/1)
+<a class="link2" href="/portfolio/1">Writeup</a>
 
 <hr>
 

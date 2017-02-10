@@ -8,20 +8,20 @@ title: misc
 ## Links
 
 ###### Blogs by Friends
-* [wumb0](https://wumb0.in)
-* [Ben Bornholm](https://holdmybeer.xyz)
-* [Stateside Cash](https://stateside.xyz)
-* [Max Fang](https://maxfangx.com)
-* [Saimon Howlader](https://saimonhowlader.com)
+* <a class="link1" href="https://wumb0.in">wumb0</a>
+* <a class="link1" href="https://holdmybeer.xyz">Ben Bornholm</a>
+* <a class="link1" href="https://stateside.xyz">Stateside Cash</a>
+* <a class="link1" href="https://maxfangx.com">Max Fang</a>
+* <a class="link1" href="https://saimonhowlader.com">Saimon Howlader</a>
 
 ###### Finance/Business
-* [I'm a Buffet fanboy](http://www.berkshirehathaway.com/letters/letters.html)
-* [And a boglehead](https://www.bogleheads.org)
-* [Stratechery](https://stratechery.com)
-* [Etherium](https://ethereium.org)
+* <a class="link1" href="http://www.berkshirehathaway.com/letters/letters.html">I'm a Buffet fanboy</a>
+* <a class="link1" href="https://www.bogleheads.org">And a boglehead</a>
+* <a class="link1" href="https://stratechery.com">Stratechery</a>
+* <a class="link1" href="https://ethereium.org">Etherium</a>
 
 ###### Security
-* [OWASP Top 10](https://www.owasp.org/index.php/Top_10_2013-Top_10)
-* [Diogo Monica from Docker](https://diogomonica.com)
-* [RC3 Site](https://rc3.club)
+* <a class="link1" href="https://www.owasp.org/index.php/Top_10_2013-Top_10">OWASP</a>
+* <a class="link1" href="https://diogomonica.com">Diogo Monica from Docker</a>
+* <a class="link1" href="https://rc3.club">RC3</a>
 
