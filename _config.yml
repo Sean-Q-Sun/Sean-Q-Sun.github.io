@@ -3,9 +3,8 @@ title: Sean Q. Sun
 tag_text: Sean Q. Sun
 description: Professional website and blog.
 permalink: /:title/
-url: www.seanqsun.com
-
-google_analytics:
+url: https://seanqsun.com
+enforce_ssl: seanqsun.com
 
 # Build settings
 kramdown:
