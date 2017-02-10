@@ -7,6 +7,7 @@ permalink: /work/cryptograme
 ### guest@seanqsun:~/home/work$ cat {{page.title}} 
 
 ## Cryptograme
+
 #### Find it at <a class="link1" href="http://cryptogra.me">here</a>
 
 **Description**  
