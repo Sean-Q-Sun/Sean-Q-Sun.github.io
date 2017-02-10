@@ -1,6 +1,7 @@
 ---
 layout: default
 title: misc
+permalink: /misc
 ---
 
 ### guest@seanqsun:~/www/{{page.title}}$

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: about
-permalink: /about/
+permalink: /about
 ---
 
 ### guest@seanqsun:~/www/{{page.title}}$  
