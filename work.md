@@ -18,7 +18,7 @@ Nothing to see here, folks.
 
 ###### Cryptogra.me [**>>**](http://cryptogra.me)   
 Write in public, in private.  
-<a class="link2" href="/portfolio/1">Writeup</a>
+<a class="link2" href="/work/cryptograme">Writeup</a>
 
 <hr>
 
@@ -26,5 +26,5 @@ Write in public, in private.
 
 ###### CTFD 2.0 
 RC3 CTF  
-[Read](/portfolio/1)
+[Read](/portfolio/cryptograme)
 
