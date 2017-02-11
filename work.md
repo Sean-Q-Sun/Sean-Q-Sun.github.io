@@ -25,6 +25,7 @@ Write in public, in private.
 ## Community
 
 ###### CTFD 2.0 
-RC3 CTF  
-[Read](/portfolio/cryptograme)
+RC3 Website
+Redesigned the old RC3 site with a focus on UX/UI and security. 
+<a class="link2" href="/work/rc3">Writeup</a>
 
