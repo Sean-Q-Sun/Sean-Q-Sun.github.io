@@ -16,7 +16,7 @@ Nothing to see here, folks.
 
 ## Recreational
 
-###### Cryptogra.me - In Progress <a class="link1" href="http://cryptogra.me"> >> </a>   
+###### Cryptogra.me - In Progress <a class="link1" href="http://cryptogra.me">>></a>   
 Write in public, in private. Currently in progress.  
 <a class="link2" href="/work/cryptograme">Writeup</a>
 
@@ -24,7 +24,7 @@ Write in public, in private. Currently in progress.
 
 ## Community
 
-###### RC3 Website - In Progres <a class="link1" href="https://rc3.club"> >> </a> 
-Redesigned the old RC3 site with a focus on UX/UI and security. 
+###### RC3 Website - In Progress <a class="link1" href="https://rc3.club">>></a> 
+Redesigned the old RC3 site with a focus on UX/UI and security.   
 <a class="link2" href="/work/rc3">Writeup</a>
 
