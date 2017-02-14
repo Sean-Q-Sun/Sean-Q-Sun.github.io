@@ -322,7 +322,9 @@ link2::before{
   height: 100%;
 }
 
-
+p {
+    font-size: .9rem;
+}
 
 table {
   width: 100%;
