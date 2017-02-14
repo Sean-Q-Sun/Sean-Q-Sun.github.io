@@ -31,8 +31,10 @@ Inspired by lightweight notepads in the cloud like <a class="link1" href="http:/
 
 **The Product**  
 The requirements I gave myself were as such:  
-* Webapp
-* Decode at will
-* Accessible later on
-* Mobile compliant
-* Not ugly
+* Webapp  
+* Decode at will  
+* Accessible later on  
+* Mobile compliant  
+* Not ugly 
+
+**This project is still in the works**
