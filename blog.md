@@ -5,8 +5,6 @@ title: blog
 command: ls -l
 ---
 
-### guest@seanqsun:~/www/{{page.title}}$ ls -l 
-
 ### total {{ site.posts | size }}
 <div class="posts">
   {% for post in site.posts %}
