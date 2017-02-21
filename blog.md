@@ -2,6 +2,7 @@
 layout: post
 permalink: /blog
 title: blog
+command: ls -l
 ---
 
 ### guest@seanqsun:~/www/{{page.title}}$ ls -l 
