@@ -13,10 +13,5 @@ Currently, I am a sophmore at the Rochester Institute of Technology with a major
 Back home, in New York City, I've worked on Wall Street for two summers working in **investment banking** which has guided my
 interests towards the integration of secure technologies with economics. 
 
-<hr>
-
-### guest@seanqsun:~/www/{{page.title}}$ tree
-
-## Life in a Nutshell
 
 
