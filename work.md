@@ -1,20 +1,30 @@
 ---
 layout: default
 title: work
-permalink: /work/all
+permalink: /work/
 ---
 
-### guest@seanqsun:~/home/{{page.title}}$ ls -l
+### guest@seanqsun:~/site/{{page.title}}$ ls -l
 
-### total 1
+### total 2
 
-## Commerical
-
+<div class="workType">
+<h2>Commerical</h2>
+<p>What I get paid for</p>
+</div>
+  
 Nothing to see here, folks.
 
 <hr>
 
-## Recreational
+<div class="workType">
+<h2>Recreational</h2>
+<p>Scratching my own itches</p>
+</div>
+
+###### Hacker Culture - Live <a class="link1" href="http://hackerculture.clothing">>></a>   
+Blending streetwear fashion and cybersecurity culture into a clothing brand as inexpensively as possible.  
+<a class="link2" href="/work/hackerculture">Writeup</a>
 
 ###### Cryptogra.me - In Progress <a class="link1" href="http://cryptogra.me">>></a>   
 Write in public, in private. Currently in progress.  
@@ -22,7 +32,11 @@ Write in public, in private. Currently in progress.
 
 <hr>
 
-## Community
+
+<div class="workType">
+<h2>Community</h2>
+<p>For the people</p>
+</div>
 
 ###### RC3 Website - In Progress <a class="link1" href="https://rc3.club">>></a> 
 Redesigned the old RC3 site with a focus on UX/UI and security.   

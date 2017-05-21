@@ -1,10 +1,15 @@
 html {
-   font: 18px/1.6 -apple-system, BlinkMacSystemFont,
+   
+   
+   font: 18px/1.6 Raleway;
+    background: #FFF; /* f2f1ef */
+}
+
+.blog-post{
+  font: 18px/1.6 -apple-system, BlinkMacSystemFont,
       "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
       "Fira Sans", "Droid Sans", "Helvetica Neue",
       sans-serif;
-    font: 18px/1.6 Raleway;
-    background: #FFF; /* f2f1ef */
 }
 
 
@@ -90,7 +95,6 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 0.5rem -0.1rem /* align left edge */;
   color: #111;
   text-rendering: optimizeLegibility;
-  /*font-family: 'Raleway', sans-serif;*/
   line-height: 1.2;
 }
 
@@ -122,26 +126,6 @@ h1 a {
   color: inherit;
 }
 
-/*
-h4 {
-  margin-top: 2.5rem;
-  font-size: 1.75rem;
-  font-weight: 500;
-  margin-bottom: 1rem;
-  color: #555;
-  text-align: right;
-  margin-right: -4rem;
-}
-
-@media (min-width: 30rem) {
-  h4 {
-    margin-top: 2.5rem;
-    font-size: 1.75rem;
-    margin-bottom: 1rem;
-    margin-right: -4rem;
-  }
-}*/
-
 h3 {
   margin: 0rem -2rem 1.75rem -2rem;
   font-size: 1rem;
@@ -158,9 +142,6 @@ h3 {
   }
 }
 
-
-
-
 h2, h4, h5, h6 {
   margin: 1.5rem -1rem .5rem -1rem;
   font-size: 1.5rem;
@@ -173,10 +154,13 @@ h4{
     margin-top: 0;
     text-align: right;
 }
+
+h5{
+  font-weight: semibold;
+}
 h6{
     font-size: 1.1rem;
 }
-
 
 p, ul, ol, dl, table, pre, blockquote {
   margin-top: 0;
@@ -323,7 +307,7 @@ link2::before{
 }
 
 p {
-    font-size: 14px;
+    font-size: 90%;
 }
 
 table {
@@ -361,46 +345,12 @@ pre > code {
   padding: 0 0.75rem;
 }
 
-.sharing {
-  text-align: center;
-}
-
 .date {
   text-align: right;
   font-size: 75%;
   font-style: italic;
 }
 
-@media (max-width: 635px) {
-.sharing {
- font-size: 85%;
- }
-}
-
-/* This gets Google to fall into place */
-.social {
- text-align: right;
-}
-
-.topsocial {
-	margin-bottom: 5em;
-}
-
-/* This gets Facebook to fall into place */
-.social iframe {
-	vertical-align: middle;
-}
-
-/* Set an optional width for your button wrappers */
-.social span {
-	display: inline-block;
-	width: 110px;
-}
-
-/* Adjust the widths individually if you like */
-.social .google {
-	width: 75px;
-}
 
 .button {
   margin-top: 2em;
@@ -422,11 +372,34 @@ pre > code {
 	transition: 0.5s;
 }
 
-.Facebook {
-	transform: scale(1.25);
+/*
+h1{
+  font-size: 3.998em;
+}
+h2{
+  font-size: 1.414em;
+}
+h3{
+  font-size: 1em;
+}
+h4{
+  font-size: 1em;
+}
+p{
+  font-size: 1em;
+}*/
+
+.workType * {
+  display: inline;
+  vertical-align: text-bottom;
+  padding-right: 3rem;
+  cursor: help;
 }
 
-.sharing-buttons {
-	width: 100%;
+.workType > p {
+  visibility: hidden;
 }
+.workType:hover > p{
+visibility: visible;
 }
+

@@ -4,7 +4,7 @@ title: cryptograme
 permalink: /work/cryptograme
 ---
 
-### guest@seanqsun:~/home/work$ cat {{page.title}} 
+### guest@seanqsun:~/site/work$ cat {{page.title}} 
 
 ## Cryptograme
 

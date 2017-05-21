@@ -4,9 +4,9 @@ title: misc
 permalink: /misc
 ---
 
-### guest@seanqsun:~/www/{{page.title}}$
+### guest@seanqsun:~/site/{{page.title}}$
 
-## Links
+## Link Dump
 
 ###### Blogs by Friends
 * <a class="link1" href="https://wumb0.in">wumb0</a>

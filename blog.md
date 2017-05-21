@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /blog
+permalink: /blog/
 title: blog
 command: ls -l
 ---
@@ -10,13 +10,9 @@ command: ls -l
   {% for post in site.posts %}
     <article class="post">
 
-      <h5>{{ post.title }}</h5>
+      <h5>{{ post.description }}</h5>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="link2">Read</a>
     </article>
   {% endfor %}
 </div>
