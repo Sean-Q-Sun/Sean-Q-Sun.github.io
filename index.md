@@ -9,7 +9,7 @@ title: homepage
 
 I am Sean, a button up wearing, coffee chugging millennial hailing from good ol' New York City. I've traveled the land far and wide to study Computer Security at the Rochester Institute of Technology.
 
-When I'm not in a class or a club, I immerse myself in side-projects and security competitions. My passion is in designing and developing elegant, yet secure digital experiences. So sometimes I'll write about the stuff I'm doing.
+When I'm not in a class or a club, I scratch my own itches with side projects. My passion is in designing and developing elegant, yet secure digital experiences. So sometimes I'll write about the stuff I'm doing.
 
 So stay awhile, take a look around.
 
