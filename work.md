@@ -6,7 +6,7 @@ permalink: /work/
 
 ### guest@seanqsun:~/site/{{page.title}}$ ls -l
 
-### total 2
+### total 4
 
 <div class="workType">
 <h2>Commerical</h2>
@@ -18,11 +18,22 @@ Nothing to see here, folks.
 <hr>
 
 <div class="workType">
+<h2>Competitive</h2>
+<p>Here lies the glory</p>
+</div>
+
+###### IRSeC 2017 - Competition Architect <a class="link1" href="https://irsec.rc3.club/">>></a>
+I planned and executed the annual Incident Response Security Competition as Competition Architect of RIT's Competitive Cybersecurity Club (RC3).
+<a class="link2" href="/work/irsec17">Writeup</a>
+
+<hr>
+
+<div class="workType">
 <h2>Recreational</h2>
 <p>Scratching my own itches</p>
 </div>
 
-###### Hacker Culture - Live <a class="link1" href="http://hackerculture.clothing">>></a>   
+###### Hacker Culture - Live <a class="link1" href="http://hackerculture.co">>></a>   
 Blending streetwear fashion and cybersecurity culture into a clothing brand as inexpensively as possible.  
 <a class="link2" href="/work/hackerculture">Writeup</a>
 
