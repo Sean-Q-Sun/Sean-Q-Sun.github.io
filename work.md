@@ -33,11 +33,11 @@ I planned and executed the annual Incident Response Security Competition as Comp
 <p>Scratching my own itches</p>
 </div>
 
-###### Hacker Culture - Live <a class="link1" href="http://hackerculture.co">>></a>   
-Blending streetwear fashion and cybersecurity culture into a clothing brand as inexpensively as possible.  
-<a class="link2" href="/work/hackerculture">Writeup</a>
+###### YAEP: Yet Another E-Commerce Platform - In Progress <a class="link1" href="https://github.com/HackerCulture/hackerculture.github.io">>></a>   
+Static e-commerce platform leveraging multiple freemium APIs and services to reduce startup cost.
+<a class="link2" href="/work/yaep">Writeup</a>
 
-###### Cryptogra.me - In Progress <a class="link1" href="http://cryptogra.me">>></a>   
+###### Cryptogra.me - Backburner <a class="link1" href="http://cryptogra.me">>></a>   
 Write in public, in private. Currently in progress.  
 <a class="link2" href="/work/cryptograme">Writeup</a>
 
