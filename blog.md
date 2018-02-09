@@ -7,7 +7,8 @@ command: ls -l
 
 ### total {{ site.posts | size }}
 <div class="posts">
-  {% for post in site.posts %}
+  {% assign sorted = site.posts | sort: 'date' %}
+  {% for post in sorted %}
     <article class="post">
 
       <h5>{{ post.description }}</h5>
